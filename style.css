@@ -23,6 +23,14 @@ font-family: 'Potta One', cursive;
 
 
 }
+.q{
+  font-size:1.5rem;
+margin-left: 5rem;
+color:#09015f;
+border-color: #ff577f;
+background-color: #ff577f;
+align-items: center;
+}
 a{
   border-radius: 100%;
 }
